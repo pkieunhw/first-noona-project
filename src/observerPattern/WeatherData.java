@@ -41,6 +41,8 @@ public class WeatherData implements Subject{
         this.humidity = humidity;
         this.pressure = pressure;
         measurementsChangerd();
+
+        추가했다 이부분 this.dkjdkjdkjdkjd;
     }
     //게터메소드
 }
